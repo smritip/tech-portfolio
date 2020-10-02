@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Smriti Pramanick', // Title for your website.
-    tagline: '',
+    tagline: '"A ship in port is safe, but that is not what ships are for." #vGHC2020',
     profilePhoto: 'img/profile.png',
     url: 'https://smritip.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -48,7 +48,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Smriti Pramanick`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
